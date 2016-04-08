@@ -157,7 +157,7 @@
 	  </build>
  
 			<scm>
-				<developerConnection>scm:git:https://github.com/dhanalakshmisanga/sanga.git</developerConnection>
+				<developerConnection>scm:git:https://github.com/dhanalakshmisanga/dhanalakshmi.git</developerConnection>
 				 
     <tag>sonatype-srtifact-1.0</tag>
   </scm>
