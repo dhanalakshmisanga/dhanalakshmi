@@ -5,7 +5,7 @@
   <groupId>com.sonatype.blog</groupId>
   <artifactId>sonatype-srtifact</artifactId>
 <packaging>jar</packaging>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.3</version>
   
   <name>sonatype-artifact</name>
 
@@ -159,6 +159,6 @@
 			<scm>
 				<developerConnection>scm:git:https://github.com/dhanalakshmisanga/dhanalakshmi.git</developerConnection>
 				 
-    <tag>sonatype-srtifact-1.0</tag>
+    <tag>sonatype-srtifact-1.3</tag>
   </scm>
 </project>			
