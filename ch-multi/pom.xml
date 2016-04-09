@@ -32,16 +32,16 @@
 			          <version>2.5.3</version>
 				<configuration> 
 				  <tagBase>
-				  https://github.com/Divyasatish/divyasatish.github.io
+				  https://github.com/dhanalakshmisanga/dhanalakshmi.git
 				  </tagBase> 
 				   </configuration>
 				        </plugin>
 					    </plugins>
   </build>
   <scm>
-  <url>https://github.com/Divyasatish/divyasatish.github.io</url>
-  <connection>scm:git:git://github.com/Divyasatish/divyasatish.github.io.git</connection>
-  <developerConnection>scm:git:git@github.com:Divyasatish/divyasatish.github.io.git</developerConnection>
+  <url>https://github.com/dhanalakshmisanga/dhanalakshmi.git</url>
+  <connection>https://github.com/dhanalakshmisanga/dhanalakshmi.git</connection>
+  <developerConnection>https://github.com/dhanalakshmisanga/dhanalakshmi.git</developerConnection>
   </scm>
 
   <dependencies>

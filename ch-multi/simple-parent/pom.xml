@@ -18,7 +18,7 @@
     <module>simple-webapp</module>
   </modules>
 
- <!-- <build>
+  <build>
     <pluginManagement>
     <plugins>
       <plugin>
@@ -45,9 +45,9 @@
 					    </plugins>
   </build>
   <scm>
-  <url>https://github.com/Divyasatish/Simple-test</url>
-  <connection>scm:git:git://github.com/Divyasatish/Simple-test.git</connection>
-  <developerConnection>scm:git:git@github.com:Divyasatish/Simple-test.git</developerConnection>
+  <url>https://github.com/dhanalakshmisanga/dhanalakshmi.git</url>
+  <connection>https://github.com/dhanalakshmisanga/dhanalakshmi.git</connection>
+  <developerConnection>https://github.com/dhanalakshmisanga/dhanalakshmi.git</developerConnection>
   
     <tag>HEAD</tag>
   </scm>
@@ -95,6 +95,6 @@
 </snapshots>
 </pluginRepository>
 </pluginRepositories>
--->
+
 
 </project>
